@@ -1,9 +1,5 @@
-<html>
-<head>
-  <title>Redirecting...</title>
-  <meta http-equiv="refresh" content="0; url=https://github.com/alberttwong">
-</head>
-<body>
-  <p>You are being redirected to the new page.</p>
-</body>
-</html>
+<!DOCTYPE html>
+<meta charset="utf-8">
+<title>Redirecting to https://github.com/alberttwong/</title>
+<meta http-equiv="refresh" content="0; URL=https://github.com/alberttwong/">
+<link rel="canonical" href="https://github.com/alberttwong/">
